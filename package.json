@@ -1,0 +1,27 @@
+{
+  "name": "faceapi-online",
+  "version": "1.0.0",
+  "description": "Desarrollo de una app de reconocimiento facial con face-api.js",
+  "main": "index.js",
+  "scripts": {
+    "serve": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduiglesiash/chapter-vodafone-faceapi.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduiglesiash/chapter-vodafone-faceapi/issues"
+  },
+  "homepage": "https://github.com/eduiglesiash/chapter-vodafone-faceapi#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
